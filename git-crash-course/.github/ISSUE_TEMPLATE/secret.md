@@ -1,7 +1,7 @@
 ---
 name: Bug Report
-description: Report an issue with this repository
-title: ""
+about: Report an issue with this repository
+title: ''
 labels: secret
 ---
 
